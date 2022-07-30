@@ -1,0 +1,23 @@
+{
+  "name": "first_npm_init",
+  "version": "1.0.0",
+  "description": "first npm init",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajdeb7/node-js.git"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "ajdeb7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajdeb7/node-js/issues"
+  },
+  "homepage": "https://github.com/ajdeb7/node-js#readme"
+}
