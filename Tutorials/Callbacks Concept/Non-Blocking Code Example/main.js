@@ -1,6 +1,6 @@
 var fs = require("fs");
 
-// Program doesn't wait for readFile function to finish before executing further code
+// readFile function doesn't wait for file to finish being read before executing further lines of code
 fs.readFile('input.txt', function (err, data) {
    if (err) return console.error(err);
    console.log(data.toString());
